@@ -9,7 +9,7 @@
         <module name="Calendar" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="9">
       <module name="Calendar" target="1.5" />
     </bytecodeTargetLevel>
   </component>
